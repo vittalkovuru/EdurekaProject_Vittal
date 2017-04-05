@@ -14,7 +14,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 
 public class WhenCreatingANewGame {
-    private string Name;
+    private String Name;
 
     GameController controller = null;
 
