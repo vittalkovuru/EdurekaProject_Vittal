@@ -491,7 +491,7 @@
                   <artifactId>maven-pmd-plugin</artifactId>
         <version>3.0.1</version>
        <!--ecutions>
-          <execution>-->
+          <execution>
             <goals>
               <goal>check</goal>
             </goals>
