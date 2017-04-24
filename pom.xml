@@ -254,6 +254,15 @@
                             <failOnViolation>true</failOnViolation>
                             <failurePriority>2</failurePriority>
                         </configuration>
+                        
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
+                    </execution>
+                </executions>
+
                     </plugin>
 
                     <!-- FINDBUGS -->
